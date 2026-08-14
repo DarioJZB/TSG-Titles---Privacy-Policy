@@ -1,8 +1,3 @@
----
-layout: default
-title: Privacy Policy
----
-
 # Privacy Policy
 
 **Effective Date:** [March 10th , 2012]
