@@ -11,13 +11,8 @@ We provide timeshare exit and timeshare cancellation consulting services to cons
 
 ## 1. Who We Are and How to Reach Us
 
-**[LEGAL ENTITY NAME] d/b/a [DBA NAME]**
-[STREET ADDRESS]
-[CITY, STATE ZIP]
-
-**Email:** [PRIVACY@YOURDOMAIN.COM]
-**Phone:** [(XXX) XXX-XXXX]
-**Website:** [https://yourdomain.com]
+**Phone:** 1-800-485-9384
+**Website:** tsgtitles.onrender.com
 
 We are the "controller" of the personal information described in this policy, which means we decide how and why it is used.
 
@@ -32,7 +27,6 @@ When you submit a lead form through a Facebook or Instagram advertisement, conta
 - Full name
 - Email address
 - Telephone number
-- Mailing address, city, state, and ZIP code
 - Information about your timeshare, which may include the resort or developer name, ownership type, points or weeks owned, purchase date, and property location
 - Financial information related to your ownership, which may include your outstanding mortgage or loan balance, annual maintenance fee amounts, whether your account is current or delinquent, and your general goals for exiting the ownership
 - Any other information you voluntarily provide in a message, form field, or conversation with our representatives
@@ -62,10 +56,6 @@ We use the personal information we collect to:
 - Contact you by telephone, text message, or email in response to your inquiry
 - Evaluate whether our services may be appropriate for your timeshare ownership situation
 - Provide a consultation and, if applicable, a proposal or quote for our services
-- Deliver, administer, and support the services you engage us to perform
-- Maintain records of your consent to be contacted and of our communications with you
-- Detect and prevent fraud, protect the security of our systems, and enforce our agreements
-- Comply with legal obligations, including recordkeeping requirements applicable to our industry, and respond to lawful requests from government authorities
 
 We do not use your information to make automated decisions that produce legal or similarly significant effects about you without human involvement.
 
@@ -77,10 +67,9 @@ We do not use your information to make automated decisions that produce legal or
 
 When you submit your telephone number to us through a lead form, advertisement, or our website, you expressly consent to receive telephone calls and text messages from us at that number, including calls and messages made using an automatic telephone dialing system or a prerecorded or artificial voice, regarding your inquiry and our timeshare exit services.
 
-- **Consent is not a condition of purchase.** You are not required to agree to receive these calls or messages in order to purchase any goods or services from us. You may reach us instead at the phone number or email address listed in Section 1.
-- **Message frequency varies.** Message and data rates may apply depending on your mobile plan.
-- **To stop text messages,** reply **STOP** to any message you receive from us. Reply **HELP** for assistance.
-- **To stop phone calls,** tell the representative you wish to be placed on our internal Do Not Call list, or email us at [PRIVACY@YOURDOMAIN.COM] with the phone number you want removed. We maintain an internal Do Not Call list and will honor your request.
+- **Consent is not a condition of purchase.** You are not required to agree to receive these calls or messages in order to purchase any goods or services from us. You may reach us instead at the phone number listed in Section 1.
+
+- **To stop phone calls,** tell the representative you wish to be placed on our internal Do Not Call list.
 - **Email opt-out.** If we send you marketing email, you may unsubscribe using the link in the message or by contacting us directly.
 
 Even if you opt out of marketing communications, we may still contact you about an active engagement, a transaction you have requested, or a legal obligation.
@@ -103,9 +92,9 @@ We disclose personal information only in the following limited circumstances:
 
 ## 6. How Long We Keep Your Information
 
-We retain lead and inquiry information for **[NUMBER] [months/years]** from your last interaction with us, unless a longer period is required.
+We retain lead and inquiry information for **3 years** from your last interaction with us, unless a longer period is required.
 
-We retain records for clients who engage our services for the duration of the engagement plus **[NUMBER] years** afterward, in order to satisfy contractual, tax, accounting, and legal recordkeeping obligations. We retain records of consent to be contacted, and of opt-out requests, for at least five years, as required to demonstrate compliance with telemarketing laws.
+We retain records for clients who engage our services for the duration of the engagement plus **6 years** afterward, in order to satisfy contractual, tax, accounting, and legal recordkeeping obligations. We retain records of consent to be contacted, and of opt-out requests, for at least five years, as required to demonstrate compliance with telemarketing laws.
 
 When information is no longer needed, we delete it or render it permanently de-identified.
 
@@ -128,13 +117,10 @@ Depending on where you live, you may have some or all of the following rights re
 - **Right to delete.** Request that we delete personal information we have collected from you, subject to exceptions where we are required or permitted to retain it.
 - **Right to opt out of sale or targeted advertising.** We do not sell personal information, share it for cross-context behavioral advertising, or use it for targeted advertising or profiling, so there is nothing to opt out of. If this ever changes, we will update this policy and provide a clear opt-out mechanism.
 - **Right to non-discrimination.** We will not deny you services, charge you a different price, or provide a different level of service because you exercised a privacy right.
-- **Right to appeal.** If we decline your request, you may appeal by replying to our response or contacting us at the address in Section 1. We will respond to appeals as required by your state's law.
-
-Residents of California, Colorado, Connecticut, Delaware, Florida, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah, and Virginia, among other states, have rights of this kind under their respective state privacy laws. California residents may also request disclosure of the categories of personal information collected and the business purposes for collection, as described in this policy.
 
 ### How to Exercise Your Rights
 
-Submit a request by emailing **[PRIVACY@YOURDOMAIN.COM]** with the subject line "Privacy Request," or by calling **[(XXX) XXX-XXXX]**. Please tell us what right you wish to exercise and provide enough information for us to locate your records, such as the name, phone number, and email address you submitted to us.
+Submit a request by calling the number provided above. Please tell us what right you wish to exercise and provide enough information for us to locate your records, such as the name, phone number, and email address you submitted to us.
 
 We will verify your identity before fulfilling a request, typically by confirming information you previously provided to us. We will respond within 45 days, and may extend that period by an additional 45 days where permitted, in which case we will notify you.
 
@@ -144,7 +130,7 @@ An authorized agent may submit a request on your behalf with written authorizati
 
 ## 9. Children's Privacy
 
-Our services are directed exclusively to adults. We do not knowingly collect personal information from anyone under 18 years of age. If you believe a minor has provided us with personal information, contact us at [PRIVACY@YOURDOMAIN.COM] and we will delete it promptly.
+Our services are directed exclusively to adults. We do not knowingly collect personal information from anyone under 18 years of age. If you believe a minor has provided us with personal information, contact us and we will delete it promptly.
 
 ---
 
@@ -165,15 +151,3 @@ Our services are offered only to individuals located in the United States, and o
 We may update this Privacy Policy from time to time. When we do, we will revise the "Last Updated" date at the top of this page and post the updated version at this address. Material changes will be described in a notice at the top of this page for at least 30 days. Your continued interaction with us after a change takes effect constitutes acceptance of the revised policy.
 
 ---
-
-## 13. Contact Us
-
-If you have questions, concerns, or complaints about this Privacy Policy or our handling of your personal information, contact us at:
-
-**[LEGAL ENTITY NAME] d/b/a [DBA NAME]**
-[STREET ADDRESS]
-[CITY, STATE ZIP]
-Email: [PRIVACY@YOURDOMAIN.COM]
-Phone: [(XXX) XXX-XXXX]
-
-We will respond to your inquiry within a reasonable time.
